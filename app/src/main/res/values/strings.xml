@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetRecette</string>
+    <string name="ajoute">Ajouter une recette</string>
+    <string name="consulte">Consulter les recettes existantes</string>
+    <string name="save">Sauvgarder</string>
+
+
+</resources>
