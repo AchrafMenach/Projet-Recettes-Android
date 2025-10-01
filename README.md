@@ -184,7 +184,7 @@ Les contributions sont les bienvenues ! Voici comment procéder :
 
 ## 👥 Auteurs
 
-- **Votre Nom** - *Développement initial* - [VotreGitHub](https://github.com/votre-username)
+- **Achraf Menach** - *Développement initial* - [VotreGitHub](https://github.com/AchrafMenach)
 
 ## 📄 Licence
 
